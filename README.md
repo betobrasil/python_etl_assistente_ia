@@ -4,7 +4,7 @@
 **Autora:** Roberto Santos
 
 ## 🏆 O Desafio
-O objetivo deste projeto foi criar um pipeline **ETL (Extract, Transform, Load)** completo. Para criar uma solução única, reimaginei o cenário original bancário para um cenário de **Tecnologia e Ensino)**.
+O objetivo deste projeto foi criar um pipeline **ETL (Extract, Transform, Load)** completo. Para criar uma solução única, reimaginei o cenário original bancário para um cenário de **Tecnologia e Ensino**.
 
 ## 🚀 O Cenário: "Assistente de Tecnologia IA"
 O problema: Uma plataforma de ensino quer engajar os estudntes enviando mensagens personalizadas baseadas no curso que eles estão realizando no momento na plataforma.
@@ -28,4 +28,5 @@ O problema: Uma plataforma de ensino quer engajar os estudntes enviando mensagen
 ## 📂 Como Rodar
 1.  Instale as dependências: `pip install -r requirements.txt`
 2.  Insira sua API Key da OpenAI no código.
+
 3.  Execute: `python etl_tech_mentor.py`
